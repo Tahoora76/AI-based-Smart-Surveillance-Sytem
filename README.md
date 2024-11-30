@@ -17,3 +17,12 @@ Flask: Python-based web framework to create a user interface for controlling the
 OpenCV: For capturing webcam feed and processing video frames.
 NumPy, Pandas: For handling data processing and manipulation.
 
+Usage:
+Start Webcam: Begins the live video feed from the webcam.
+Stop Stream: Stops the video feed and tracking.
+Alert System: Automatically triggers alerts based on harmful object detection.
+Future Improvements:
+Integrate with cloud storage for saving video footage.
+Implement facial recognition for additional security.
+Expand object detection capabilities to include more harmful items.
+Provide multi-camera support and centralized monitoring.
