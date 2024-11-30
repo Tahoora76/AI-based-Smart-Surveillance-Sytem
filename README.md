@@ -30,6 +30,8 @@ cd AI-based-Smart-Surveillance-Sytem
 - **YOLOv8**: Object detection model.  
 - **Deep SORT**: Tracking algorithm.  
 - **Flask**: Python framework for the web interface.  
+- **Twilio**: API for sending SMS alerts.
+  
 Usage:
 Start Webcam: Begins the live video feed from the webcam.
 Stop Stream: Stops the video feed and tracking.
