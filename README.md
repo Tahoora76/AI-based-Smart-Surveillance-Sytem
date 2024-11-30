@@ -9,6 +9,16 @@ https://github.com/user-attachments/assets/1f9854ea-bcde-4d25-9591-1352cdd7a6c3
 - [DeepSORT Model](https://drive.google.com/file/d/1IPC-ppaLETfAYh7k8HDMs50PUPtCFi_y/view?usp=sharing)
 - [DeepSORT Files](https://drive.google.com/drive/folders/17-Ak9zUE1cK0oZI-r7_JHK4B60GdlLu9?usp=sharing)
 
+## Requirements
+
+To set up the project and install the necessary dependencies, create a virtual environment and install the following packages:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Tahoora76/AI-based-Smart-Surveillance-Sytem.git
+   cd AI-based-Smart-Surveillance-Sytem
+
+
 
 ### Features:
 
