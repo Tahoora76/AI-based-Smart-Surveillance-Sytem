@@ -14,3 +14,4 @@ Deep SORT: Algorithm for tracking detected objects across frames.
 Flask: Python-based web framework to create a user interface for controlling the system.
 OpenCV: For capturing webcam feed and processing video frames.
 NumPy, Pandas: For handling data processing and manipulation.
+https://github.com/user-attachments/assets/1f9854ea-bcde-4d25-9591-1352cdd7a6c3
