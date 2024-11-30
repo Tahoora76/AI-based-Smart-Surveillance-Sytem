@@ -13,7 +13,7 @@ https://github.com/user-attachments/assets/1f9854ea-bcde-4d25-9591-1352cdd7a6c3
 
 To set up the project and install the necessary dependencies, create a virtual environment and install the following packages:
 
-1. Clone the repository:
+ Clone the repository:
    ```bash
    git clone https://github.com/Tahoora76/AI-based-Smart-Surveillance-Sytem.git
    cd AI-based-Smart-Surveillance-Sytem
