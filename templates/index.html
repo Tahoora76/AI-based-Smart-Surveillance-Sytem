@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI-Based Smart Surveillance System</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <header>
+        <h1>AI-Based Smart Surveillance System</h1>
+    </header>
+    <main>
+        <section class="controls">
+            <form>
+                <button id="start-webcam" class="btn">Start Webcam</button>
+                <input id="video-input" type="file" name="video" accept="video/*" hidden>
+                <label for="video-input" class="btn upload-label">Upload Video</label>
+                <button id="upload-video" class="btn">Run Uploaded Video</button>
+                <button id="stop-stream" class="btn">Stop Stream</button>
+            </form>
+        </section>
+        <section class="video-section">
+            <div class="video-wrapper">
+                <img id="video-feed" src="" alt="Video Stream">
+            </div>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 AI-Based Smart Surveillance System</p>
+    </footer>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
