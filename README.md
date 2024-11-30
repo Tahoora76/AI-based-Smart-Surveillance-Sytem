@@ -3,6 +3,13 @@ This project implements an intelligent surveillance system using YOLOv8 for obje
 
 https://github.com/user-attachments/assets/1f9854ea-bcde-4d25-9591-1352cdd7a6c3
 
+## Download Models & DeepSORT folder
+
+- [YOLOv8 Model](https://drive.google.com/file/d/1blTgoGuVcJmmfhWlYgvEq5uGePmTZ3dH/view?usp=sharing)
+- [DeepSORT Model](https://drive.google.com/file/d/1IPC-ppaLETfAYh7k8HDMs50PUPtCFi_y/view?usp=sharing)
+- [DeepSORT Files](https://drive.google.com/drive/folders/17-Ak9zUE1cK0oZI-r7_JHK4B60GdlLu9?usp=sharing)
+
+
 ### Features:
 
 - **Real-time Object Detection:** Uses YOLOv8 for accurate detection.  
